@@ -1,1 +1,0 @@
-# thrivetalk.github.io
