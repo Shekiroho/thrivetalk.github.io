@@ -1,0 +1,130 @@
+body {
+    font-family: 'Larsseit', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    background-color: #fff;
+    color: #22356F;
+}
+header {
+    display: flex;
+    z-index: 100;
+}
+.header-left {
+    flex: 0 0 65%;
+    padding-left: 12.5%;
+    background-color: #F4F9E2;
+    z-index: -2;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 107px 0px 0px;
+}
+.company-name {
+    font-size: 24px;
+    letter-spacing: -0.035em;
+    color: #62D0DF;
+    text-decoration: none;
+    z-index: 100;
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 122px;
+}
+.nav-list-item {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.nav-list > li > a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #22356F;
+    transition: 0.2s ease;
+}
+.nav-list > li > a:hover {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #F4F9E2;
+    box-shadow: inset 0px -1px 0px #22356F;
+}
+.btn {
+    background: #62D0DF;
+    margin-top: 23px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    padding: 15px 26px;
+    margin-left: 55px;
+}
+.info-block {
+    letter-spacing: -0.7px;
+}
+.introduction {
+    z-index: 100;
+}
+.radius-bg-1 {
+    position: absolute;
+    transform: rotate(-28deg);
+    border-radius: 312.159px;
+    top: 105px;
+    right: -172px;
+    z-index: -1;
+    overflow: hidden;
+}
+.bg-1 {
+    background-image: url(../img/radius-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: rotate(28deg);
+    margin-bottom: -100px;
+    margin-left: -20px;
+    margin-top: -100px;
+    width: 800px;
+    height: 712px;
+}
+.radius-bg-2 {
+    position: absolute;
+    background:#EDFDFF;
+    border-radius: 312.159px;
+    transform: rotate(30deg);
+    top: -100px;
+    right: -60px;
+    padding: 400px 270px 400px 270px;
+    z-index: -1;
+}
+.company-name-2 {
+    margin-top: 153px;
+}
+.h1-title {
+    z-index: 100;
+    font-size: 48px;
+    margin-top: 35px;
+    letter-spacing: -0.035em;
+}
+.description {
+    line-height: 42px;
+    margin-top: 60px;
+}
+.info-block > .flex-container {
+    margin-top: 52px;
+}
+.functional-button {
+    padding: 10px 30px 10px 30px;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    border: none;
+    background-color: transparent;
+    color: #FAB63E;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.functional-button:hover {
+    background-color:  #FAB63E;
+    color: #fff;
+}
