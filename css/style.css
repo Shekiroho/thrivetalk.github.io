@@ -69,24 +69,25 @@ nav {
 }
 .radius-bg-1 {
     position: absolute;
-    transform: rotate(-28deg);
+    transform: rotate(-31deg);
     border-radius: 312.159px;
-    top: 105px;
-    right: -172px;
+    top: 88px;
+    right: -200px;
     z-index: -1;
     overflow: hidden;
 }
 .bg-1 {
     background-image: url(../img/radius-bg.png);
-    background-size: cover;
+    background-size: 75%;
     background-repeat: no-repeat;
-    background-position: center center;
-    transform: rotate(28deg);
+    background-position: 115px -10px;
+    transform: rotate(31deg);
     margin-bottom: -100px;
-    margin-left: -20px;
+    margin-left: -120px;
     margin-top: -100px;
-    width: 800px;
-    height: 712px;
+    margin-right: 100px;
+    width: 833px;
+    height: 719px;
 }
 .radius-bg-2 {
     position: absolute;
