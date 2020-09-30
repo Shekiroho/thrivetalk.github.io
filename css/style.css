@@ -327,7 +327,7 @@ small {
     padding: 24px 3.6% 0 5.1%;
 }
 .solo-list-2 {
-    padding: 0 0 0 36px;
+    padding: 0 0 0 2.6%;
     margin-top: 32px;
 }
 .solo-list-2 > li {
@@ -367,20 +367,20 @@ small {
     color: rgba(34, 53, 111, 0.5);
 }
 .block-2 {
-    padding-left: 120px;
+    padding-left: 8.8%;
 }
 .block-3 {
-    padding-left: 140px;
+    padding-left: 10.2%;
 }
 .block-4 {
     padding-top: 48px;
 }
 .block-5 {
-    padding-left: 120px;
+    padding-left: 8.8%;
     padding-top: 48px;
 }
 .block-6 {
-    padding-left: 140px;
+    padding-left: 10.2%;
     padding-top: 48px;
 }
 .additional-info {
@@ -396,7 +396,7 @@ small {
 .additional-info-content {
     flex: 0 0 66.3%;
     padding-left: 100px;
-    padding-top: 87px;
+    padding-top: 6.3%;
 }
 .additional-info-text {
     font-size: 16px;
@@ -437,7 +437,7 @@ small {
     background-color: #22356F;
     color: #fff;
     box-sizing: border-box;
-    padding: 86px 0 0 170px;
+    padding: 86px 0 0 12.4%;
 }
 .smile-block-text {
     font-size: 16px;
@@ -495,10 +495,10 @@ small {
     margin-top: 41px;
 }
 .enfold-health {
-    margin-left: 75px;
+    margin-left: 5.5%;
 }
 .office-hours {
-    margin-left: 90px;
+    margin-left: 6.6%;
 }
 .phone-number {
     margin-top: 25px;
@@ -511,7 +511,7 @@ small {
     margin: 0;
     background-color: #62D0DF;
     color: #fff;
-    padding: 12px 0 12px 130px;
+    padding: 12px 0 12px 9.5%;
 }
 .footer-list > li {
     font-size: 14px;
